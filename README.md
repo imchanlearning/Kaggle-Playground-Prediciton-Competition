@@ -1,1 +1,1 @@
-# Kaggle-Playground-Series
+# Kaggle-PLAYGROUND PREDICTION COMPETITION
